@@ -1,4 +1,4 @@
-#ABSTRACT
+# ABSTRACT
 Music genre classification plays a pivotal role in enhancing the functionality of
 popular music streaming platforms, encompassing music recommendation sys-
 tems, personalized playlists, and content organization. With the ever-expanding
